@@ -60,7 +60,14 @@ const Cardpokemon = () => {
           );
         })}
       </div>
-      
+      <button>
+            <span>Siguiente</span>
+          <img
+          className=" h-24"
+            src="https://doggishpetboutique.com/wp-content/uploads/2020/07/Placas-geek-19.png"
+            alt=""
+          />
+        </button>
     </div>
   );
 };
